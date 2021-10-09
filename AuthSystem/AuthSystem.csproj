@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <AssemblyName>Pratice.CSharp.AuthSystem</AssemblyName>
+    <RootNamespace>Pratice.CSharp.AuthSystem</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
